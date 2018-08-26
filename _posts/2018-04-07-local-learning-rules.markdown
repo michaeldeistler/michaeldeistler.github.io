@@ -3,7 +3,7 @@ title: "Local learning rules to attenuate forgetting in neural networks"
 layout: post
 date: 2018-04-07 11:00
 tag: Edinburgh
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+image: https://michaeldeistler.github.io/assets/images/edinburgh.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
