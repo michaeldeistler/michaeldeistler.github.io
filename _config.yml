@@ -15,7 +15,8 @@ picture: assets/images/my_picture.jpg
 resume: true
 resume-external: true
 # resume-local: assets/files/CV_Michael_Deistler.pdf
-resume-url: https://google.com/?q=my+resume
+resume-url: assets/files/CV_Michael_Deistler.pdf
+# resume-url: https://google.com/?q=my+resume
 
 url: https://michaeldeistler.github.io
 # your url: http://USERNAME.github.io
