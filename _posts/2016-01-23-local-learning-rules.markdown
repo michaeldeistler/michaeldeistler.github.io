@@ -1,7 +1,7 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "Local learning rules to attenuate forgetting in neural networks"
 layout: post
-date: 2016-01-23 22:10
+date: 2018-02-23 08:10
 tag: jekyll
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
