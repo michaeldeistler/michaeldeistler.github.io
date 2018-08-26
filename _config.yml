@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Michael Deistler
+bio: M.Sc. Neuroengineering Student at the TU Munich
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A scientific blog
 
 # if it's an external image, update below for true
 # better with square images
@@ -51,7 +51,7 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: michael.deistler95@gmail.com
 
 authors:
     johndoe:
