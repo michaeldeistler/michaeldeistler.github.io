@@ -8,13 +8,14 @@ description: A scientific blog
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: assets/images/my_picture.jpg
+picture: assets/images/my_picture2.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+# resume-external: true
+resume-local: assets/files/CV_Michael_Deistler.pdf
+# resume-url: https://google.com/?q=my+resume
 
 url: https://michaeldeistler.github.io
 # your url: http://USERNAME.github.io
@@ -34,7 +35,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: Michael Deistler
+facebook: myfacebook
 twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
@@ -58,7 +59,7 @@ authors:
         name: Michael Deistler
         bio: M.Sc. Neuroengineering Student at the TU Munich
         external-image: true
-        picture: assets/images/my_picture.jpg
+        picture: assets/images/my_picture2.jpg
         twitter: johndoe
 
 # do you want a larger site? change the option below
