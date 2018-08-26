@@ -7,7 +7,7 @@ description: A scientific blog
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: false
 picture: assets/images/my_picture.jpg
 
 # If you want to include your resume, set to true
@@ -55,7 +55,7 @@ authors:
     johndoe:
         name: Michael Deistler
         bio: M.Sc. Neuroengineering Student at the TU Munich
-        external-image: true
+        external-image: false
         picture: assets/images/my_picture.jpg
         twitter: johndoe
 
