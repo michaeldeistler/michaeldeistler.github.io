@@ -32,8 +32,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+# twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -57,7 +57,7 @@ authors:
         bio: M.Sc. Neuroengineering Student at the TU Munich
         external-image: false
         picture: assets/images/my_picture.jpg
-        twitter: johndoe
+        # twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
