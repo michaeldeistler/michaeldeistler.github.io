@@ -13,8 +13,10 @@ author: michaeldeistler
 externalLink: false
 ---
 
-What was it about?
+## What was it about?
+How can stable locomotor patterns come about, how can the two sides of the body coordinate each other and how can such processes be modeled? This is the question that my 9-week project at the Max-Planck institute for Brain Research in Julijana Gjorgjieva's group 'Computation in Neural Circuits' explored.
 
 ---
 
-What were the results?
+## What were the results?
+Project is still ongoing. 

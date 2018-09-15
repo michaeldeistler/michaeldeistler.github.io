@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning for Nerve Fibre Segmentation from Ultrasound Images"
 layout: post
-date: 2018-04-07 11:00
+date: 2018-02-07 11:00
 tag: TU Munich
 image: https://michaeldeistler.github.io/assets/images/tum.jpg
 headerImage: true
