@@ -46,13 +46,13 @@ github: michaeldeistler
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: michael.deistler95@gmail.com
 
 authors:
-    johndoe:
+    michaeldeistler:
         name: Michael Deistler
         bio: M.Sc. Neuroengineering Student at the TU Munich
         external-image: false
