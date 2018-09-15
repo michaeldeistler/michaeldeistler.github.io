@@ -2,7 +2,7 @@
 title: "Local learning rules to attenuate forgetting in neural networks"
 layout: post
 date: 2018-04-07 11:00
-tag: Edinburgh
+tag: University of Edinburgh
 image: https://michaeldeistler.github.io/assets/images/edinburgh_old_c.jpg
 headerImage: true
 projects: true
