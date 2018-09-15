@@ -18,7 +18,3 @@ What was it about?
 ---
 
 What were the results?
-
----
-
-Roundup
