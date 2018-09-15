@@ -3,15 +3,18 @@ title: "A Spiking Neural Network for Modeling of Locomotion in Drosophila Melano
 layout: post
 date: 2018-09-01 09:00
 tag: Max-Planck Institute for Brain Research
-image: https://michaeldeistler.github.io/assets/images/tum.jpg
+image: https://michaeldeistler.github.io/assets/images/mpi.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Deep Learning project for Computer Vision"
+description: "How can stable locomotor patterns come about, how can the two sides of the body coordinate each other and how can such processes be modeled? This is the question that my 9-week project at the Max-Planck institute for Brain Research in Julijana Gjorgjieva's group 'Computation in Neural Circuits' explored."
 category: project
 author: michaeldeistler
 externalLink: false
 ---
 
-## What was it about?
-This project was done in the realm of the course 'Deep Learning for Computer Vision'. Three fellow students and me used the U-Net architecture to segment nerve fibers in ultrasound images.
+What was it about?
+
+---
+
+What were the results?
