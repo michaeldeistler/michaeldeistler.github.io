@@ -3,7 +3,7 @@ title: "A Spiking Neural Network for Modeling of Locomotion in Drosophila Melano
 layout: post
 date: 2018-09-01 09:00
 tag: Frankfurt am Main
-image: https://michaeldeistler.github.io/assets/images/edinburgh.jpg
+image: https://michaeldeistler.github.io/assets/images/mpi.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
