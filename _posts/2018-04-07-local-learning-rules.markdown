@@ -19,6 +19,18 @@ The human brain can keep memories for an entire life while constantly learning s
 
 ---
 
-## What were the results?
+## Methods
 
-We found that in the network that we used, namely Hopfield networks, it can be derived that the most important weights (i.e. the weights with the highest Fisher Information) are those the are the largest. By keeping those weights rather stiff and the other weights rather sloppy, our networks can perform local learning and strongly alleviate forgetting of previously stored patterns.
+We use hebbian learning in a Hopfield networks at the sparse coding limit to store patterns and evaluate retrieval by using the dice-coefficient. In order to prevent the previously learned patterns to be forgotten, we identify the important weights of the network by calculating their respective Fisher information. We then demonstrate that in the given network architecture, the weights with a high Fisher information correspond to the large weights of the network. Hence, keeping the large weights constant allows for a local and hence biologically plausible way to attenuate the forgetting in neural networks.
+
+---
+
+## Results
+
+Using the above given approach, we are able to continuously store patterns in the Hopfield networks and thereby nearly approach the theoretical limit for the capacity when using 'instant' learning.
+
+---
+
+## Discussion
+
+Our approach thereby not only shows a possibility to attenuate forgetting in artificial neural networks, but also proposes a reason for the biological observation that strong synapses undergo a smaller relative change than smaller synapses
