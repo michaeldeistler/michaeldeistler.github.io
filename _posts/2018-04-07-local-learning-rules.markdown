@@ -39,7 +39,7 @@ Our approach thereby not only shows a possibility to attenuate forgetting in art
 
 ## References
 [1] Abraham WC, Logan B, Greenwood JM, Dragunow M (2002) Induction
-and experience-dependent consolidation of stable long-term potentia- tion lasting months in the hippocampus. J Neurosci 22:9626–9634. Medline
-[2] Kirkpatrick, J., Pascanu, R., Rabinowitz, N., Veness, J., Desjardins, G., Rusu, A. A., Milan, K., Quan, J., Ramalho, T., Grabska-Barwinska, A., Hassabis, D., Clopath, C., Kumaran, D., and Hadsell, R. (2017). Overcoming catastrophic forgetting in neural networks. PNAS, 114(13):3521– 3526.
-[3] A. J. G. D. Holtmaat, J. T. Trachtenberg, L. Wilbrecht, G. M. Shepherd, X. Zhang, G. W. Kno, and K. Svoboda. Transient and persistent dendritic spines in the neocortex in vivo. Neuron, 45(2):279–91, jan 2005.
+and experience-dependent consolidation of stable long-term potentia- tion lasting months in the hippocampus. J Neurosci 22:9626–9634. Medline<br/>
+[2] Kirkpatrick, J., Pascanu, R., Rabinowitz, N., Veness, J., Desjardins, G., Rusu, A. A., Milan, K., Quan, J., Ramalho, T., Grabska-Barwinska, A., Hassabis, D., Clopath, C., Kumaran, D., and Hadsell, R. (2017). Overcoming catastrophic forgetting in neural networks. PNAS, 114(13):3521– 3526.<br/>
+[3] A. J. G. D. Holtmaat, J. T. Trachtenberg, L. Wilbrecht, G. M. Shepherd, X. Zhang, G. W. Kno, and K. Svoboda. Transient and persistent dendritic spines in the neocortex in vivo. Neuron, 45(2):279–91, jan 2005.<br/>
 [4] Y. Loewenstein, U. Yanover, and S. Rumpel. Predicting the Dynamics of Network Connectivity in the Neocortex. Journal of Neuroscience, 35(36):12535–12544, 2015.
