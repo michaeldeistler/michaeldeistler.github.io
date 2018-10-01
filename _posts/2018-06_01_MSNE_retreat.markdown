@@ -19,4 +19,14 @@ The group of students enrolled in the Master program of Neuroengineering at the 
 ---
 
 ## Invited speakers
-Jakob Macke
+* Prof. Dr. Jakob Macke, TU Munich
+* Prof. Dr. Benjamin Grewe, ETH Zurich
+* Prof. Dr. Thomas Euler, University of Tübingen
+
+---
+
+## Contributing speakers
+* Aleksandra Teska
+* Annika Thierfelder
+* Steffen Schneider
+* Werner Seitz
