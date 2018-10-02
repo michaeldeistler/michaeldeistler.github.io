@@ -29,3 +29,5 @@ The group of students enrolled in the Master program of Neuroengineering at the 
 * Annika Thierfelder
 * Steffen Schneider
 * Werner Seitz
+
+---

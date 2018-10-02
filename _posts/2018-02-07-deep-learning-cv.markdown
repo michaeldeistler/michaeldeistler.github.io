@@ -20,3 +20,5 @@ In order to reach the goal of relieving patients from surgical pain, correct ide
 
 ## Results
 We found that a pretrained SegNet cannot compete on this task with a U-Net-inspired architecture that is designed for medical image segmentation. Further, it was feasible to train the U-Net from scratch, without using pre-trained weights. An added binary classification significantly increased the accuracy and sensitivity of our prediction. Integrating a GAN by training the decoder as generator with help of an external discriminator seemed to stabilize training. Since the discriminator could help the decoder to generalize underlying anatomical information that is contained in the masks, we argue that applying this method is plausible in medical image segmentation.
+
+---

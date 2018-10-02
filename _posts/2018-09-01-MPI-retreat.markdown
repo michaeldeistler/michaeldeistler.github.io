@@ -23,3 +23,5 @@ Hiroshi Ito (Memory and Navigation Circuits)
 Tatjana Tchumatchenko (Theory of Neural Dynamics)
 Johannes Letzkus (Neocoritical Circuits)
 Julijana Gjorgjieva (Computation in Neural Circuits)
+
+---
