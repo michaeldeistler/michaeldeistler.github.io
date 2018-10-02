@@ -7,7 +7,6 @@ headerImage: false
 tag:
 - markdown
 - elements
-star: true
 category: blog
 author: michaeldeistler
 description: Blog post about the MPI retreat
