@@ -1,7 +1,7 @@
 ---
 title: "M.Sc. Neuroengineering retreat 2018"
 layout: post
-date: 2018-06-05 15:35
+date: 2018-06-01 15:35
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
