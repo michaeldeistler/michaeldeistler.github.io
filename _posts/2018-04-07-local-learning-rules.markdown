@@ -37,6 +37,12 @@ Our approach thereby not only shows a possibility to attenuate forgetting in art
 
 ---
 
+## Paper
+
+The paper is currently in the review process. The manuscript on the arXiv can be found [here](https://arxiv.org/abs/1807.05097)
+
+---
+
 ## References
 [1] Abraham WC, Logan B, Greenwood JM, Dragunow M (2002) Induction
 and experience-dependent consolidation of stable long-term potentia- tion lasting months in the hippocampus. J Neurosci 22:9626–9634. Medline<br/>
