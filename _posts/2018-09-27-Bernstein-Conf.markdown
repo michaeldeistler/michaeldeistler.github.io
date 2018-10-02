@@ -13,7 +13,7 @@ description: Blog post about the Bernstein Conference 2018
 ---
 
 ## Introduction
-The Bernstein Conference for computational neuroscience 2018 took place in Berlin and gathers several of the world's most renowned theoretical Neuroscientists. I attended the conference to get into discussion with experts working on the formation of memory, the underlying synaptic and homeostatic mechanisms and in general the role of spikes in information processing as perform by neural networks, as I am hoping to pick up some of the learnt approaches for my Master thesis.
+The Bernstein Conference for computational neuroscience 2018 took place in Berlin and gathers several of the world's most renowned theoretical Neuroscientists. I attended the conference to get into discussion with experts working on the formation of memory, the underlying synaptic and homeostatic mechanisms and in general the role of spikes in information processing as performed by neural networks as I am hoping to pick up some of the learnt approaches for my master thesis.
 
 ---
 

@@ -13,7 +13,7 @@ description: Blog post about the MPI retreat
 ---
 
 ## Introduction
-During my research project at the Max-Planck-Institute for Brain Research in Julijana Gjorgjieva's group, the institute's bi-annual retreat took place. The retreat beautifully managed to bridge the gap between experimental neuroscience and the theoretical modeling of these processes.
+During my research project at the Max-Planck-Institute for Brain Research in Julijana Gjorgjieva's group, the institute's biannual retreat took place. The retreat wonderfully managed to bridge the gap between experimental neuroscience and the theoretical modeling of these processes.
 
 ## Participating groups
 * Moritz Helmstaedter (Connectomics)
