@@ -1,7 +1,7 @@
 ---
 title: "A Spiking Neural Network for Modeling of Locomotion in Drosophila Melanogaster"
 layout: post
-date: 2018-09-01 09:00
+date: 2018-09-02 09:00
 tag: Max-Planck Institute for Brain Research
 image: https://michaeldeistler.github.io/assets/images/mpi.jpg
 headerImage: true

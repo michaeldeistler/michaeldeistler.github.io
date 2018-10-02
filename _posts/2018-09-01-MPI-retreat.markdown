@@ -1,7 +1,7 @@
 ---
 title: "Max-Planck-Institute for Brain Research Retreat"
 layout: post
-date: 2018-09-02 22:44
+date: 2018-09-01 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
