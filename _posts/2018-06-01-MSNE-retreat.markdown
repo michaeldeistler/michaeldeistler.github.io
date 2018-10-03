@@ -4,9 +4,7 @@ layout: post
 date: 2018-06-01 15:35
 image: /assets/images/markdown.jpg
 headerImage: false
-tag:
-- markdown
-- elements
+tag: MSNE retreat
 category: blog
 author: michaeldeistler
 description: Blog post about MSNE retreat 2018

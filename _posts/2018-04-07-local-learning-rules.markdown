@@ -15,7 +15,7 @@ externalLink: false
 
 ## Introduction
 
-The human brain can keep memories for an entire life while constantly learning something new. This is particularly surprising when considering that the lifetime of synaptic mechanisms such as long-term potentiation much shorter than that and is reported to be maximally one year under special conditions [1]. Additionally, the process of forgetting stored memories while learning new tasks is a crucial problem in artificial neural networks. This project at the University of Edinburgh at Matthias Hennig's group at the institute for Computational Neuroscience explored the phenomenon of continuous learning in the brain and shows a possibility to attenuate the process of forgetting in artificial neural networks.
+The human brain can keep memories for an entire life while constantly learning something new. This is particularly surprising when considering that the lifetime of synaptic mechanisms such as long-term potentiation is much shorter than that and is reported to be maximally one year under special conditions [1]. Additionally, the process of forgetting stored memories while learning new tasks is a crucial problem in artificial neural networks. This project at the University of Edinburgh at Matthias Hennig's group at the institute for Computational Neuroscience explored the phenomenon of continuous learning in the brain and shows a possibility to attenuate the process of forgetting in artificial neural networks.
 
 ---
 
