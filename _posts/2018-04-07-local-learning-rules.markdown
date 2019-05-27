@@ -43,7 +43,7 @@ The paper is currently in the review process. The manuscript on the arXiv can be
 
 ---
 
-## Supervision
+## Acknowledgements
 Big thanks to [Martino Sorbaro](https://martinosorb.github.io), [Dr Michael Rule](http://www.eng.cam.ac.uk/profiles/mer49) and [Dr Matthias Hennig](http://homepages.inf.ed.ac.uk/mhennig/) for giving me the chance to work on this project and for valuable discussions, ideas, and all the work they put into this!
 
 ---
