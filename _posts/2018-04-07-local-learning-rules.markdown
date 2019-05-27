@@ -43,6 +43,11 @@ The paper is currently in the review process. The manuscript on the arXiv can be
 
 ---
 
+## Supervision
+Big thanks to [Martino Sorbaro](https://martinosorb.github.io), [Dr Michael Rule](http://www.eng.cam.ac.uk/profiles/mer49) and [Dr Matthias Hennig](http://homepages.inf.ed.ac.uk/mhennig/) for giving me the chance to work on this project and for valuable discussions, ideas, and all the work they put into this!
+
+---
+
 ## References
 [1] Abraham WC, Logan B, Greenwood JM, Dragunow M (2002) Induction
 and experience-dependent consolidation of stable long-term potentia- tion lasting months in the hippocampus. J Neurosci 22:9626–9634. Medline<br/>
