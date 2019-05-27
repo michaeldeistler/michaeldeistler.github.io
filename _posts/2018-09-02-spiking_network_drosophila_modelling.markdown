@@ -18,9 +18,3 @@ externalLink: false
 How can stable locomotor patterns come about and how can distinct processes interact and thereby stabilize the pattern? These are the questions that my 9-week project at the Max-Planck institute for Brain Research in Julijana Gjorgjieva's group 'Computation in Neural Circuits' explored.
 
 ---
-
-## Results
-
-Project is still ongoing.
-
----
