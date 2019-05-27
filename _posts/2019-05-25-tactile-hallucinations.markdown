@@ -1,7 +1,7 @@
 ---
 title: "Tactile Hallucinations on Artificial Skin through Homeostasis in a Deep Boltzmann Machine"
 layout: post
-date: 2018-02-07 11:00
+date: 2019-05-15 11:00
 tag: TU Munich
 image: https://michaeldeistler.github.io/assets/images/2_DBM_structure.png
 headerImage: true

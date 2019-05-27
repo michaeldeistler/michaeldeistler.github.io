@@ -1,7 +1,7 @@
 ---
 title: "Continual Learning on Point Clouds"
 layout: post
-date: 2018-02-07 11:00
+date: 2019-04-07 11:00
 tag: TU Munich
 image: https://michaeldeistler.github.io/assets/images/pointcloud.jpg
 headerImage: true
