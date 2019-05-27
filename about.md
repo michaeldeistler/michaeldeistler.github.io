@@ -4,7 +4,6 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am doing my Master studies in Neuroengineering at the Technical University of Munich.
-More specifically, I am interested in the formation of memory and the emergence of stable patterns in (spiking) neural networks. To better understand these processes, I use models of brain function on different scales, ranging from multicompartment models to
-fully artificial neurons in artificial neural networks.<br/>
-I am always happy to discuss any of the above topics or other controversial topics in neuroscience and related fields, so feel free to contact me.</p>
+<p>I am a M.Sc. student in Neuroengineering at the Technical University of Munich.
+My main interest lies in the application of Machine Learning methods to neural or other biological data to uncover computational principles of biology. At the moment, I am writing my master's thesis on 'Bayesian inference on the pyloric rhythm' in the lab of Jakob Macke.<br/>
+I am always happy to discuss any of the above or other controversial topics in neuroscience and related fields, so feel free to contact me.</p>
