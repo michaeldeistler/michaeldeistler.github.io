@@ -4,6 +4,5 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am a M.Sc. student in Neuroengineering at the Technical University of Munich.
-I am interested in various areas of Machine Learning, most notably Likelihood-free Inference, Normalizing Flows, and Gaussian Processes. At the moment, I am writing my master's thesis in the lab of Prof Dr Jakob Macke.<br/>
-I am always happy to discuss any of the above topics, so feel free to contact me.</p>
+<p>I am a PhD student at the University of Tuebingen and part of the International Max-Planck Research School for Intelligent Systems (IMPRS-IS). My supervisor is Prof Dr Jakob Macke.<br/>
+My main goal is to build statistical machine learning tools for neuroscience research. I currently work on simulation-based (aka likelihood-free) inference using neural density estimators.</p>

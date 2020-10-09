@@ -1,6 +1,6 @@
 # main text of home
 name: Michael Deistler
-bio: M.Sc. Neuroengineering Student at the TU Munich
+bio: PhD Student in Machine Learning
 
 # twitter summary info
 description: A scientific blog
@@ -8,7 +8,7 @@ description: A scientific blog
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/my_picture.jpg
+picture: assets/images/my_picture.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -49,14 +49,14 @@ github: michaeldeistler
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: michael.deistler@tum.de
+email: michael.deistler@uni-tuebingen.de
 
 authors:
     michaeldeistler:
         name: Michael Deistler
-        bio: M.Sc. Neuroengineering Student at the TU Munich
+        bio: PhD Student in Machine Learning
         external-image: false
-        picture: assets/images/my_picture.jpg
+        picture: assets/images/my_picture.png
         # twitter: johndoe
 
 # do you want a larger site? change the option below
