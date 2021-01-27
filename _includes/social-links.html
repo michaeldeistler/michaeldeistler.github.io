@@ -59,6 +59,12 @@
         </a>
     {% endif %}
 
+    {% if site.googlescholar %}
+        <a class="link" data-title="scholar.google.com/{{ site.github }}" href="https://scholar.google.com/{{ site.googlescholar }}" target="_blank">
+            <svg class="icon icon-google"><use xlink:href="#icon-google"></use></svg>
+        </a>
+    {% endif %}
+
     {% if site.gitlab %}
         <a class="link" data-title="gitlab.com/{{ site.gitlab }}" href="https://gitlab.com/{{ site.gitlab }}" target="_blank">
             <svg class="icon icon-gitlab"><use xlink:href="#icon-gitlab"></use></svg>
