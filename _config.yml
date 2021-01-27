@@ -9,6 +9,7 @@ description: A scientific blog
 # better with square images
 external-image: false
 picture: assets/images/my_picture.png
+picture_elife: assets/images/elife_fig.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
