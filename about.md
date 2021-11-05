@@ -4,5 +4,5 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture_elife }})
 
-<p>I am a PhD student at the University of Tuebingen and part of the International Max-Planck Research School for Intelligent Systems (IMPRS-IS). My supervisor is Prof Dr Jakob Macke.<br/>
-My main goal is to build statistical machine learning tools for neuroscience research. I currently work on simulation-based (aka likelihood-free) inference using neural density estimators.</p>
+<p>I am a PhD student at the University of Tübingen and part of the International Max-Planck Research School for Intelligent Systems (IMPRS-IS). My supervisor is Prof Dr Jakob Macke.<br/>
+I build probabilistic machine learning tools for real-world problems, especially for neuroscience research. More specifically, I work on simulation-based (aka likelihood-free) Bayesian inference using neural density estimation.</p>
