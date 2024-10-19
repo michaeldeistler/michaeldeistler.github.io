@@ -27,7 +27,7 @@ Neural circuits are remarkably energy-efficient and robust to perturbations. I u
 **Deistler**, Macke‡, Gonçalves‡ (_PNAS_)
 
 [**Training deep neural density estimators to identify mechanistic models of neural dynamics**](https://elifesciences.org/articles/56261)\
-Gonçalves*, Lueckmann*, **Deistler***, Nonnenmacher, Öcal, Bassetto, Chintaluri, Podlaski, Vogels, Greenberg, Macke (_Elife_)
+Gonçalves†, Lueckmann†, **Deistler†**, Nonnenmacher, Öcal, Bassetto, Chintaluri, Podlaski, Vogels, Greenberg, Macke (_Elife_)
 
 [**Deep inverse modeling reveals dynamic-dependent invariances in neural circuit mechanisms**](https://www.biorxiv.org/content/10.1101/2024.08.21.608969v2.abstract)\
 Gao, **Deistler**, Schulz, Gonçalves, Macke (_bioRxiv_)
@@ -46,7 +46,7 @@ Gloeckler, **Deistler**, Weilbach, Wood, Macke (_ICML, oral_)
 Gorecki, Macke, **Deistler** (_TMLR_)
 
 [**Generalized Bayesian Inference for Scientific Simulators via Amortized Cost Estimation**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/fdd565f63f49776bef620e0ce368a492-Abstract-Conference.html)\
-Gao*, **Deistler***, Macke (_NeurIPS_)
+Gao†, **Deistler**†, Macke (_NeurIPS_)
 
 [**Adversarial robustness of amortized Bayesian inference**](https://proceedings.mlr.press/v202/gloeckler23a.html)\
 Gloeckler, **Deistler**, Macke (_ICML_)
@@ -70,7 +70,7 @@ Together with many other amazing people, I am developer and maintainer of the fo
 - [Jaxley](http://github.com/jaxleyverse/jaxley), a differentiable simulator for biophysically detailed neuron models in JAX.  
 
 [**sbi---a toolbox for simulation-based inference**](https://joss.theoj.org/papers/10.21105/joss.02505)\
-Tejero-Cantero*, Boelts*, **Deistler***, Lueckmann*, Durkan*, Gonçalves, Greenberg, Macke (_Journal of Open Source Software_)
+Tejero-Cantero†, Boelts†, **Deistler†**, Lueckmann†, Durkan†, Gonçalves, Greenberg, Macke (_Journal of Open Source Software_)
 
-*indicates shared first authorship.\
-‡indicates shared last authorship.
+† indicates shared first authorship.\
+‡ indicates shared last authorship.
