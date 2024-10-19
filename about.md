@@ -72,5 +72,5 @@ Together with many other amazing people, I am developer and maintainer of the fo
 [**sbi---a toolbox for simulation-based inference**](https://joss.theoj.org/papers/10.21105/joss.02505)\
 Tejero-Cantero*, Boelts*, **Deistler***, Lueckmann*, Durkan*, Gonçalves, Greenberg, Macke (_Journal of Open Source Software_)
 
-*indicates shared first authorship.
+*indicates shared first authorship.\
 ‡indicates shared last authorship.
