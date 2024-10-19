@@ -3,7 +3,8 @@ title: About
 layout: page
 ---
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture_elife }}) -->
-
+<br>
+<br>
 # Machine Learning for Neuroscience
 
 I am a PhD candidate at the [Max Planck International Research School for Intelligent Systems](https://imprs.is.mpg.de) and the [University of Tübingen](https://uni-tuebingen.de/en/). I am part of the [Machine Learning in Science lab](https://www.mackelab.org) led by Jakob Macke. I work on Machine Learning tools for scientific discovery, in particular in neuroscience. Below, I outline my main research interests.
