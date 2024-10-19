@@ -8,7 +8,7 @@ I am a PhD candidate at the [Max Planck International Research School for Intell
 
 
 
-### Large-scale biophysical modelling with differentiable simulation
+## Large-scale biophysical modelling with differentiable simulation
 
 Biophysical modelling allows detailed insights into the processes underlying neural activity. Building accurate and large-scale biophysical modelling is challenging because these models are slow to simulate and cannot easily be fit to data. I develop tools and methods that enable to build large-scale biophysical models and to tune them such that the match measurements and perform computations.
 
@@ -20,7 +20,7 @@ Beck, Bosch, **Deistler**, Kadhim, Macke, Hennig, Berens (_ICML_)
 
 
 
-### Neural mechanisms underlying biological intelligence
+## Neural mechanisms underlying biological intelligence
 
 Neural circuits are remarkably energy-efficient and robust to perturbations. I use computational modelling and experimental measurements to study the biophysical properties underlying these features.
 
@@ -37,7 +37,7 @@ Gao, **Deistler**, Schulz, Gonçalves, Macke (_bioRxiv_)
 Bernaerts, **Deistler**, Goncalves, Beck, Stimberg, Scala, Tolias, Macke, Kobak, Berens (_bioRxiv_)
 
 
-### Machine learning methods for simulation-based inference
+## Machine learning methods for simulation-based inference
 
 Mechanistic models provide interpretable and causal explanations for the processes underlying measurements. I develop probabilistic machine learning methods which allow to tune mechanistic models such that they match measurements.
 
@@ -67,7 +67,7 @@ Dax, Green, Gair, **Deistler**, Schölkopf, Macke (_ICLR_)
 
 
 
-### Software for scientific discovery
+## Software for scientific discovery
 
 Together with many other amazing people, I am developer and maintainer of the following two toolboxes:  
 - [sbi](https://github.com/sbi-dev/sbi), a PyTorch toolbox for simulation-based Bayesian inference and  
