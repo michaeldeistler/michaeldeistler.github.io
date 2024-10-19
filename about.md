@@ -11,7 +11,7 @@ I am a PhD candidate at the [Max Planck International Research School for Intell
 
 <br>
 ## Large-scale biophysical modelling with differentiable simulation
-Biophysical modelling allows detailed insights into the processes underlying neural activity. Building accurate and large-scale biophysical modelling is challenging because these models are slow to simulate and cannot easily be fit to data. I develop tools and methods that enable to build large-scale biophysical models and to tune them such that they match measurements and perform computations.
+Biophysical modelling allows detailed insights into the processes underlying neural activity. I develop tools and methods that enable to build large-scale biophysical models and to tune them such that they match measurements and perform computations.
 
 [**Differentiable simulation enables large-scale training of detailed biophysical models of neural dynamics**](https://www.biorxiv.org/content/10.1101/2024.08.21.608979v1)\
 **Deistler**, Kadhim, Beck, Pals, Huang, Gloeckler, Lappalainen, Schröder, Berens, Gonçalves, Macke (_bioRxiv_)
