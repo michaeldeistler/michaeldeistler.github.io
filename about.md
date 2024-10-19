@@ -9,7 +9,7 @@ layout: page
 
 I am a PhD candidate at the [Max Planck International Research School for Intelligent Systems](https://imprs.is.mpg.de) and the [University of Tübingen](https://uni-tuebingen.de/en/). I am part of the [Machine Learning in Science lab](https://www.mackelab.org) led by Jakob Macke. I work on Machine Learning tools for scientific discovery, in particular in neuroscience. Below, I outline my main research interests.
 
-
+<br>
 ## Large-scale biophysical modelling with differentiable simulation
 Biophysical modelling allows detailed insights into the processes underlying neural activity. Building accurate and large-scale biophysical modelling is challenging because these models are slow to simulate and cannot easily be fit to data. I develop tools and methods that enable to build large-scale biophysical models and to tune them such that the match measurements and perform computations.
 
@@ -19,7 +19,7 @@ Biophysical modelling allows detailed insights into the processes underlying neu
 [**Diffusion Tempering Improves Parameter Estimation with Probabilistic Integrators for Ordinary Differential Equations**](https://arxiv.org/abs/2402.12231)\
 Beck, Bosch, **Deistler**, Kadhim, Macke, Hennig, Berens (_ICML_)
 
-
+<br>
 ## Neural mechanisms underlying biological intelligence
 Neural circuits are remarkably energy-efficient and robust to perturbations. I use computational modelling and experimental measurements to study the biophysical properties underlying these features.
 
@@ -35,7 +35,7 @@ Gao, **Deistler**, Schulz, Gonçalves, Macke (_bioRxiv_)
 [**Combined statistical-mechanistic modeling links ion channel genes to physiology of cortical neuron types**](https://www.biorxiv.org/content/10.1101/2023.03.02.530774v1.abstract)\
 Bernaerts, **Deistler**, Goncalves, Beck, Stimberg, Scala, Tolias, Macke, Kobak, Berens (_bioRxiv_)
 
-
+<br>
 ## Machine learning methods for simulation-based inference
 Mechanistic models provide interpretable and causal explanations for the processes underlying measurements. I develop probabilistic machine learning methods which allow to tune mechanistic models such that they match measurements.
 
@@ -63,7 +63,7 @@ Gloeckler, **Deistler**, Macke (_ICLR, spotlight_)
 [**Group-equivariant neural posterior estimation**](https://arxiv.org/abs/2111.13139)\
 Dax, Green, Gair, **Deistler**, Schölkopf, Macke (_ICLR_)
 
-
+<br>
 ## Software for scientific discovery
 Together with many other amazing people, I am developer and maintainer of the following two toolboxes:  
 - [sbi](https://github.com/sbi-dev/sbi), a PyTorch toolbox for simulation-based Bayesian inference and  
