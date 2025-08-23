@@ -16,6 +16,9 @@ Biophysical modelling allows detailed insights into the processes underlying neu
 [**Differentiable simulation enables large-scale training of detailed biophysical models of neural dynamics**](https://www.biorxiv.org/content/10.1101/2024.08.21.608979v1)\
 **Deistler**, Kadhim, Beck, Pals, Huang, Gloeckler, Lappalainen, Schröder, Berens, Gonçalves, Macke (_bioRxiv_)
 
+[**Identifying multi-compartment Hodgkin-Huxley models with high-density extracellular voltage recordings**](https://arxiv.org/abs/2506.20233)\
+Tanoh, **Deistler**, Macke, Linderman (_arxiv_)
+
 [**Diffusion Tempering Improves Parameter Estimation with Probabilistic Integrators for Ordinary Differential Equations**](https://arxiv.org/abs/2402.12231)\
 Beck, Bosch, **Deistler**, Kadhim, Macke, Hennig, Berens (_ICML_)
 
@@ -38,6 +41,9 @@ Bernaerts, **Deistler**, Goncalves, Beck, Stimberg, Scala, Tolias, Macke, Kobak,
 <br>
 ## Machine learning methods for simulation-based inference
 Mechanistic models provide interpretable and causal explanations for the processes underlying measurements. I develop probabilistic machine learning methods which allow to tune mechanistic models such that they match measurements.
+
+[**Simulation-Based Inference: A Practical Guide**](https://arxiv.org/abs/2508.12939)\
+**Deistler†**, Boelts†, Steinbach, Moss, Moreau, Gloeckler, Rodrigues, Linhart, Lappalainen, Miller, Gonçalves, Lueckmann, Schröder, Macke (_arxiv_)
 
 [**All-in-one simulation-based inference**](https://arxiv.org/abs/2404.09636)\
 Gloeckler, **Deistler**, Weilbach, Wood, Macke (_ICML, oral_)
@@ -68,6 +74,9 @@ Dax, Green, Gair, **Deistler**, Schölkopf, Macke (_ICLR_)
 Together with many other amazing people, I am developer and maintainer of the following two toolboxes:  
 - [sbi](https://github.com/sbi-dev/sbi), a PyTorch toolbox for simulation-based Bayesian inference and  
 - [Jaxley](http://github.com/jaxleyverse/jaxley), a differentiable simulator for biophysically detailed neuron models in JAX.  
+
+[**sbi reloaded: a toolkit for simulation-based inference workflows**](https://joss.theoj.org/papers/10.21105/joss.07754)\
+Boelts†, **Deistler†**, ..., Macke (_Journal of Open Source Software_)
 
 [**sbi---a toolbox for simulation-based inference**](https://joss.theoj.org/papers/10.21105/joss.02505)\
 Tejero-Cantero†, Boelts†, **Deistler†**, Lueckmann†, Durkan†, Gonçalves, Greenberg, Macke (_Journal of Open Source Software_)
