@@ -7,7 +7,7 @@ layout: page
 <br>
 # Machine Learning for Neuroscience
 
-I am a PhD candidate at the [Max Planck International Research School for Intelligent Systems](https://imprs.is.mpg.de) and the [University of Tübingen](https://uni-tuebingen.de/en/). I am part of the [Machine Learning in Science lab](https://www.mackelab.org) led by Jakob Macke. I work on Machine Learning tools for scientific discovery, in particular in neuroscience. Below, I outline my main research interests.
+I am a post-doctoral researcher at the Max Planck Institute for Biological Intelligence, with Alexander Borst and Jakob Macke. I did my PhD in the Machine Learning in Science lab led by Jakob Macke at the University of Tübingen and was a member of the Max Planck International Research School for Intelligent Systems. I work on Machine Learning tools for scientific discovery, in particular in neuroscience. Below, I outline my main research interests.
 
 <br>
 ## Large-scale biophysical modelling with differentiable simulation
